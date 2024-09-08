@@ -3,7 +3,9 @@ I2C init :
 
 
 RCC Register : 
-![clock tree](https://github.com/user-attachments/assets/ba8a6af2-bdee-49ce-8b7b-480832cb73bc) /
+
+
+![clock tree](https://github.com/user-attachments/assets/ba8a6af2-bdee-49ce-8b7b-480832cb73bc) 
 
 
 
